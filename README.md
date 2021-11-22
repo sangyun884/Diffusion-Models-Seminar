@@ -1,4 +1,4 @@
-# Diffusion-Model-Seminar
+# Diffusion-Models-Seminar
 
 If you want to join the reading group, please send your CV to ml.swlee@gmail.com.
 
