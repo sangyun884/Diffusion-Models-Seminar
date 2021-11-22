@@ -1,5 +1,9 @@
 # Diffusion-Model-Paper-Study
 
+If you want to join the reading group, please send your CV to ml.swlee@gmail.com.
+
+
+
 |       Date       | Topic | Presenters | Summary | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
 | 14th November, 2021 | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | [Sangyun Lee](https://sangyun884.github.io/) | [Summary](https://ribbon-event-ac8.notion.site/Denoising-Diffusion-Probabilistic-Models-ade353a9abaa41d98c3ae2c18b52c129) | [Video](https://youtu.be/sNkVRr56MtI)
