@@ -11,6 +11,6 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 | 20th November, 2021 | [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233) | [Sangyun Lee](https://sangyun884.github.io/) | [Summary](https://ribbon-event-ac8.notion.site/Diffusion-Models-Beat-GANs-on-Image-Synthesis-eb1f3826618d42e89d92e489c39f1371) | [Video](https://youtu.be/bSqA2AIaHy8)
 | 28th November, 2021 | [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2108.02938) | Youngin Cho | [Summary](https://ribbon-event-ac8.notion.site/ILVR-Conditioning-Method-for-Denoising-Diffusion-Probabilistic-Models-06e9b5aa7644448e931161351cb21cd8) | [Video](https://youtu.be/NKdueTNOrR0)
 | 28th November, 2021 | [Deep Unsupervised Learning using Non equilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) | Sejik Park | [Summary](https://ribbon-event-ac8.notion.site/Deep-Unsupervised-Learning-using-Non-equilibrium-Thermodynamics-6492cd4a916049569efb837d842c47f4) | [Video](https://youtu.be/Nr0j8ObDB7w)
-
+| 06th December, 2021 | [SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models](https://arxiv.org/abs/2104.14951) | Sanghyeon Lee | [Summary](https://ribbon-event-ac8.notion.site/SRDiff-Single-Image-Super-Resolution-with-Diffusion-Probabilistic-Models-c00b88ebc2d4412a8a2b3a2801eaaadc) | [Video](https://youtu.be/Yuz5YyGa2iI)
 
 
