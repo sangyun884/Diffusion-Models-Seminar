@@ -14,5 +14,8 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 | 05th December, 2021 | [SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models](https://arxiv.org/abs/2104.14951) | Sanghyeon Lee | [Summary](https://sang-yun-lee.notion.site/SRDiff-Single-Image-Super-Resolution-with-Diffusion-Probabilistic-Models-c00b88ebc2d4412a8a2b3a2801eaaadc) | [Video](https://youtu.be/Yuz5YyGa2iI)
 | 12th December, 2021 | [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://arxiv.org/abs/2111.14822) | Jiyoung Lee | [Summary](https://sang-yun-lee.notion.site/Vector-Quantized-Diffusion-Model-for-Text-to-Image-Synthesis-7b9ebb43f14242c887af47b8a9b9b268) | [Video](https://youtu.be/LNvgRgyBs0M)
 | 19th December, 2021 | [Score-based Generative Modelling through stochastic differential equations](https://arxiv.org/abs/2011.13456) | Hyungjin Chung | [Summary](https://sang-yun-lee.notion.site/Score-based-Generative-Modelling-through-stochastic-differential-equations-59ce3235b479415a82d79dc7e644285b) | [Video](https://youtu.be/yqF1IkdCQ4Y)
+| 26th December, 2021 | [TACKLING THE GENERATIVE LEARNING TRILEMMA WITH DENOISING DIFFUSION GANS](https://arxiv.org/abs/2112.07804) | Sangyun Lee | [Summary](https://sang-yun-lee.notion.site/TACKLING-THE-GENERATIVE-LEARNING-TRILEMMA-WITH-DENOISING-DIFFUSION-GANS-cca24f847e4c4d57abfaee49f37cbbaa) | [Video](https://youtu.be/sta4xSVOI4E)
+| 26th December, 2021 | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://arxiv.org/abs/2107.03502) | Heejoon Ku | [Summary](https://sang-yun-lee.notion.site/CSDI-Conditional-Score-based-Diffusion-Models-for-Probabilistic-Time-Series-Imputation-ef04e8ffcc024b389d652f6b1972f667) | 
+
 
 
