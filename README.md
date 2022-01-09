@@ -17,6 +17,9 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 | 26th December, 2021 | [TACKLING THE GENERATIVE LEARNING TRILEMMA WITH DENOISING DIFFUSION GANS](https://arxiv.org/abs/2112.07804) | Sangyun Lee | [Summary](https://sang-yun-lee.notion.site/TACKLING-THE-GENERATIVE-LEARNING-TRILEMMA-WITH-DENOISING-DIFFUSION-GANS-cca24f847e4c4d57abfaee49f37cbbaa) | [Video](https://youtu.be/sta4xSVOI4E)
 | 26th December, 2021 | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://arxiv.org/abs/2107.03502) | Heejoon Koo | [Summary](https://sang-yun-lee.notion.site/CSDI-Conditional-Score-based-Diffusion-Models-for-Probabilistic-Time-Series-Imputation-ef04e8ffcc024b389d652f6b1972f667) 
 | 2nd January, 2022 | [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741) | Junha Hyung | [Summary](https://sang-yun-lee.notion.site/GLIDE-Towards-Photorealistic-Image-Generation-and-Editing-with-Text-Guided-Diffusion-Models-86036ea0bc344cd596a128f2de3fb9bb) | [Video](https://youtu.be/UefLZLbxM4g)
+| 9nd January, 2022 | [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | Sejik Park | [Summary](https://www.notion.so/sang-yun-lee/Denoising-Diffusion-Implicit-Models-6cd7d42f65134996817594ffbce35488) | [Video](https://youtu.be/kGgO1ZPddwg)
+| 9nd January, 2022 | [HIGH FIDELITY VISUALIZATION OF WHAT YOUR SELF-SUPERVISED REPRESENTATION KNOWS ABOUT](https://arxiv.org/abs/2112.09164) | Jiyoung Lee | [Summary](https://www.notion.so/sang-yun-lee/HIGH-FIDELITY-VISUALIZATION-OF-WHAT-YOUR-SELF-SUPERVISED-REPRESENTATION-KNOWS-ABOUT-a9e7410a1c6f46a6850fcb8c08788ed7) | [Video](https://youtu.be/AOWs9Hb8r18)
+
 
 
 
