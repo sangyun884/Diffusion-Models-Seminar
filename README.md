@@ -20,7 +20,7 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 | 9th January, 2022 | [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | Sejik Park | [Summary](https://www.notion.so/sang-yun-lee/Denoising-Diffusion-Implicit-Models-6cd7d42f65134996817594ffbce35488) | [Video](https://youtu.be/kGgO1ZPddwg)
 | 9th January, 2022 | [HIGH FIDELITY VISUALIZATION OF WHAT YOUR SELF-SUPERVISED REPRESENTATION KNOWS ABOUT](https://arxiv.org/abs/2112.09164) | Jiyoung Lee | [Summary](https://www.notion.so/sang-yun-lee/HIGH-FIDELITY-VISUALIZATION-OF-WHAT-YOUR-SELF-SUPERVISED-REPRESENTATION-KNOWS-ABOUT-a9e7410a1c6f46a6850fcb8c08788ed7) | [Video](https://youtu.be/AOWs9Hb8r18)
 | 16th January, 2022 | [Score-Based Generative Modeling with Critically-Damped Langevin Diffusion](https://arxiv.org/abs/2112.07068) | Hyungjin Chung | [Summary](https://sang-yun-lee.notion.site/Score-Based-Generative-Modeling-with-Critically-Damped-Langevin-Diffusion-1fb77e7099b94520a36d5b4372595b98) | [Video](https://youtu.be/_sGj5_8d3MY)
-
+| 23th January, 2022 | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/abs/2101.12072) | Heejoon Koo  | [Summary](https://sang-yun-lee.notion.site/Autoregressive-Denoising-Diffusion-Models-for-Multivariate-Probabilistic-Time-Series-Forecasting-IC-ee13c933c870476bbab3c975721e81ba) | [Video](https://youtu.be/KrKMErU4gRI)
 
 
 
