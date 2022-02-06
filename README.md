@@ -21,6 +21,9 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 | 9th January, 2022 | [HIGH FIDELITY VISUALIZATION OF WHAT YOUR SELF-SUPERVISED REPRESENTATION KNOWS ABOUT](https://arxiv.org/abs/2112.09164) | Jiyoung Lee | [Summary](https://www.notion.so/sang-yun-lee/HIGH-FIDELITY-VISUALIZATION-OF-WHAT-YOUR-SELF-SUPERVISED-REPRESENTATION-KNOWS-ABOUT-a9e7410a1c6f46a6850fcb8c08788ed7) | [Video](https://youtu.be/AOWs9Hb8r18)
 | 16th January, 2022 | [Score-Based Generative Modeling with Critically-Damped Langevin Diffusion](https://arxiv.org/abs/2112.07068) | Hyungjin Chung | [Summary](https://sang-yun-lee.notion.site/Score-Based-Generative-Modeling-with-Critically-Damped-Langevin-Diffusion-1fb77e7099b94520a36d5b4372595b98) | [Video](https://youtu.be/_sGj5_8d3MY)
 | 23th January, 2022 | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/abs/2101.12072) | Heejoon Koo  | [Summary](https://sang-yun-lee.notion.site/Autoregressive-Denoising-Diffusion-Models-for-Multivariate-Probabilistic-Time-Series-Forecasting-IC-ee13c933c870476bbab3c975721e81ba) | [Video](https://youtu.be/KrKMErU4gRI)
+| 30th January, 2022 | [Generative modeling by estimating gradients of the data distribution](https://arxiv.org/abs/1907.05600) | Chanwoo Park  | [Summary](https://www.notion.so/sang-yun-lee/Generative-modeling-by-estimating-gradients-of-the-data-distribution-cf9f8f0cba134c3f95c4dbf42e37e59a) | [Video](https://youtu.be/N2cSb9aW9aU)
+| 6th February, 2022 | [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) | Sangyun Lee | [Summary](https://www.notion.so/sang-yun-lee/Variational-Diffusion-Models-f72d9cb1a2004a9088470c95cdc929e3) | [Video](https://youtu.be/yR81b3UxgaI)
+
 
 
 
