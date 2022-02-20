@@ -4,7 +4,7 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 
 
 
-|       Date       | Topic | Presenters | Summary | Videos |
+|       Date       | Topic | Presenter | Summary | Video |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
 | 14th November, 2021 | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | Sangyun Lee | [Summary](https://sang-yun-lee.notion.site/Denoising-Diffusion-Probabilistic-Models-ade353a9abaa41d98c3ae2c18b52c129) | [Video](https://youtu.be/sNkVRr56MtI)
 | 20th November, 2021 | [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | Junha Hyung | [Summary](https://sang-yun-lee.notion.site/Improved-Denoising-Diffusion-Probabilistic-Models-efa847335aef4163bfd3ee96c176f659) | [Video](https://youtu.be/8dchQOqvrCE)
