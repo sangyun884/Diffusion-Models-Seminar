@@ -23,6 +23,11 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 | 23th January, 2022 | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/abs/2101.12072) | Heejoon Koo  | [Summary](https://sang-yun-lee.notion.site/Autoregressive-Denoising-Diffusion-Models-for-Multivariate-Probabilistic-Time-Series-Forecasting-IC-ee13c933c870476bbab3c975721e81ba) | [Video](https://youtu.be/KrKMErU4gRI)
 | 30th January, 2022 | [Generative modeling by estimating gradients of the data distribution](https://arxiv.org/abs/1907.05600) | Chanwoo Park  | [Summary](https://www.notion.so/sang-yun-lee/Generative-modeling-by-estimating-gradients-of-the-data-distribution-cf9f8f0cba134c3f95c4dbf42e37e59a) | [Video](https://youtu.be/N2cSb9aW9aU)
 | 6th February, 2022 | [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) | Sangyun Lee | [Summary](https://www.notion.so/sang-yun-lee/Variational-Diffusion-Models-f72d9cb1a2004a9088470c95cdc929e3) | [Video](https://youtu.be/yR81b3UxgaI)
+| 13h February, 2022 | [Denoising Diffusion Restoration Models](https://arxiv.org/abs/2201.11793) | Gwanghyun Kim | [Summary](https://sang-yun-lee.notion.site/Denoising-Diffusion-Restoration-Models-DDRM-275e61cfcf7843ffb0cbdbeaa572846a) | [Video](https://youtu.be/ZbB__c7pi40)
+| 13h February, 2022 | [Diffusion Normalizing Flow](https://arxiv.org/abs/2110.07579) | Sejik Park | [Summary](https://sang-yun-lee.notion.site/Diffusion-Normalizing-Flow-5c8eff4fba024a28b0b95c043cb1ff8c) | [Video](https://youtu.be/vB6dsUtWwz0)
+| 20h February, 2022 | [Score-based generative modeling in latent space](https://arxiv.org/abs/2106.05931) | Hyungjin Chung | [Summary](https://sang-yun-lee.notion.site/Score-based-generative-modeling-in-latent-space-6c08ad787289403095b7b9e51421724c) | [Video](https://youtu.be/ssxPHItnkqc)
+
+
 
 
 
