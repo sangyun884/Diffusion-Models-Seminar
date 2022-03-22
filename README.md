@@ -29,6 +29,7 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 | 27th February, 2022 | [Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/2111.14818) | Heejook Koo | [Summary](https://sang-yun-lee.notion.site/Blended-Diffusion-for-Text-driven-Editing-of-Natural-Images-arXiv-2022-a893aa19a652446692f58fe2907c0ca2) | [Video](https://youtu.be/i1k63kb4i-s)
 | 6th March, 2022 | [Score based Generative Modeling of Graphs via the system of Stochastic Differential Equations](https://arxiv.org/abs/2202.02514) | Chanwoo Park | [Summary](https://sang-yun-lee.notion.site/Score-based-Generative-Modeling-of-Graphs-via-the-system-of-Stochastic-Differential-Equations-GDSS-13a24ac8fefc480cbf831f48ccffa0ff) | [Video](https://youtu.be/VU-aB2j2rT8)
 | 13th March, 2022 | [High-Resolution Image Synthesis with Latent Diffusion Models ](https://arxiv.org/abs/2112.10752) | Sangyun Lee | [Summary](https://sang-yun-lee.notion.site/High-Resolution-Image-Synthesis-with-Latent-Diffusion-Models-a136345c8edb4b048b02b89716d105b5) | [Video](https://youtu.be/ibB6aR9xA1Q)
+| 20th March, 2022 | [Score-Based Point Cloud Denoising](https://arxiv.org/abs/2107.10981) | Jinhwan Seok | [Summary](https://sang-yun-lee.notion.site/Score-Based-Point-Cloud-Denoising-28be8c50cd2e46809c4aec3046b3b61d) | [Video](https://youtu.be/ppmAgu3oHqU)
 
 
 
