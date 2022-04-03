@@ -30,7 +30,8 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 | 6th March, 2022 | [Score based Generative Modeling of Graphs via the system of Stochastic Differential Equations](https://arxiv.org/abs/2202.02514) | Chanwoo Park | [Summary](https://sang-yun-lee.notion.site/Score-based-Generative-Modeling-of-Graphs-via-the-system-of-Stochastic-Differential-Equations-GDSS-13a24ac8fefc480cbf831f48ccffa0ff) | [Video](https://youtu.be/VU-aB2j2rT8)
 | 13th March, 2022 | [High-Resolution Image Synthesis with Latent Diffusion Models ](https://arxiv.org/abs/2112.10752) | Sangyun Lee | [Summary](https://sang-yun-lee.notion.site/High-Resolution-Image-Synthesis-with-Latent-Diffusion-Models-a136345c8edb4b048b02b89716d105b5) | [Video](https://youtu.be/ibB6aR9xA1Q)
 | 20th March, 2022 | [Score-Based Point Cloud Denoising](https://arxiv.org/abs/2107.10981) | Jinhwan Seok | [Summary](https://sang-yun-lee.notion.site/Score-Based-Point-Cloud-Denoising-28be8c50cd2e46809c4aec3046b3b61d) | [Video](https://youtu.be/ppmAgu3oHqU)
-
+| 27th March, 2022 | [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/abs/2110.02711) | Gwanghyun Kim | [Summary](https://www.notion.so/sang-yun-lee/DiffusionCLIP-Text-Guided-Diffusion-Models-for-Robust-Image-Manipulation-a70cf218c6a54ef29cf91d7047fe7b34) | [Video](https://youtu.be/cmbul5-o_cQ)
+| 3rd April, 2022 | [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) | Hyungjin Chung | [Summary](https://www.notion.so/sang-yun-lee/Structured-Denoising-Diffusion-Models-in-Discrete-State-Spaces-6bbe59d310b545f0a4ed01e06bee2f18) | [Video](https://youtu.be/SaZJ2cZ6FZI)
 
 
 
