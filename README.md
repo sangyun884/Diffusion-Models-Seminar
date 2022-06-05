@@ -37,7 +37,7 @@ If you want to join the reading group, please send your CV to ml.swlee@gmail.com
 | 22th May, 2022 | Derivation of Probabilistic Flow ODE / Kolmogorov forward equation (Fokker Planck equation) | Sangyun Lee |  [Summary](https://sang-yun-lee.notion.site/Derivation-of-Probabilistic-Flow-ODE-Kolmogorov-forward-equation-Fokker-Planck-equation-d5d2462c01ee44da8d2484215b697ef5)  | [Video](https://youtu.be/lA7T5d_4WcE)
 | 22th May, 2022 | [Retreival-Augmented Diffusion model](https://arxiv.org/abs/2204.11824) | Sungho Park |  [Summary](https://naem1023.github.io/generative-model/nlp/Retrieval-Augmented-Diffusion-model/)  | [Video](https://youtu.be/_b3cMfvx4xs)
 | 29th May, 2022 | [Generating High Fidelity Data from Low-density Regions using Diffusion Models](https://arxiv.org/abs/2203.17260) | Gwanghyun Kim |  [Summary](https://sang-yun-lee.notion.site/Generating-High-Fidelity-Data-from-Low-density-Regions-using-Diffusion-Models-c357143a9d334fc184eaf7ff2952cbe6)  | [Video](https://youtu.be/S-oY-EnMSwg)
-
+| 5th June, 2022 | Diffusion Models for Video | Hyungjin Chung |  [Summary](https://sang-yun-lee.notion.site/Diffusion-Models-for-Video-75454f86076a4285944240f1b993950d)  | [Video](https://youtu.be/CqCNLH4ZRDo)
 
 
 
