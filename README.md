@@ -1,7 +1,6 @@
 # Diffusion-Models-Seminar
-
-If you want to join the reading group, please send your CV to ml.swlee@gmail.com.
-
+### News
+We are switching into an irregular meeting, where we discuss the recent literature or research problems concerning diffusion models (or sometimes generative modeling in general). If you want to join our group, please send your CV to ml.swlee@gmail.com.
 
 
 |       Date       | Topic | Presenter | Summary | Video |
